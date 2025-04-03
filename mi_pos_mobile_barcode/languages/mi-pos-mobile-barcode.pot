@@ -1,0 +1,7 @@
+# POT File for MI POS MOBILE BARCODE Plugin
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8
+"
+"X-Generator: Poedit 2.4.2
+"
